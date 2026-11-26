@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#E11D48</color>
+    <color name="brand_dark">#9F1239</color>
+    <color name="brand_container">#FFE4E6</color>
+    <color name="on_brand_container">#4C0519</color>
+    <color name="surface_variant">#F3F4F6</color>
+    <color name="sold_out">#9CA3AF</color>
+</resources>

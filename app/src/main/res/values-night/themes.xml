@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EventHub" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FDA4AF</item>
+        <item name="colorOnPrimary">#4C0519</item>
+        <item name="colorPrimaryContainer">@color/brand_dark</item>
+        <item name="colorOnPrimaryContainer">@color/brand_container</item>
+        <item name="colorSecondary">#7DD3FC</item>
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

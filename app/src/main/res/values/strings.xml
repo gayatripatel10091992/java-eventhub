@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EventHub</string>
+    <string name="city">New York</string>
+    <string name="search_hint">Search events, venues, organisers</string>
+    <string name="all">All</string>
+    <string name="my_tickets">My tickets</string>
+    <string name="no_events">No upcoming events match. Try another search.</string>
+    <string name="no_tickets">Tickets you book appear here, and stay available offline.</string>
+    <string name="from_price">From %1$s</string>
+    <string name="sold_out">Sold out</string>
+    <string name="selling_fast">Selling fast</string>
+    <string name="left">%1$d left</string>
+    <string name="tickets">Tickets</string>
+    <string name="quantity">Quantity</string>
+    <string name="total">Total</string>
+    <string name="book">Book tickets</string>
+    <string name="booking">Booking…</string>
+    <string name="by_organizer">By %1$s</string>
+    <string name="tier_price">%1$s · up to %2$d per order</string>
+    <string name="ticket_line">%1$s × %2$d · %3$s</string>
+    <string name="show_at_door">Show this code at the door</string>
+    <string name="holder_default">Guest</string>
+    <string name="back">Back</string>
+    <string name="increase">Add a ticket</string>
+    <string name="decrease">Remove a ticket</string>
+</resources>
